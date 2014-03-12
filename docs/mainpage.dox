@@ -1,0 +1,12 @@
+/**
+@brief Documentation for the Main Module page and defgroups. 
+@author Drama Test at whereever.com
+@file
+*/
+/**
+ * @defgroup Batch Example */
+/**
+@mainpage Example collection
+I am doing this to test ...
+*/
+
